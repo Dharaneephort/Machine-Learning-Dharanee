@@ -43,8 +43,6 @@ The repository includes:
 ## Contributing
 Contributions are welcome! If you have suggestions or find issues, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 For questions or collaboration opportunities, please contact Dharanee Dharan at dharneedharan01@gmail.com.
