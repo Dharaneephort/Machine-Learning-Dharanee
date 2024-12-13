@@ -1,4 +1,5 @@
-# ML Random Forest Regressor
+# Predicting Red Wine Quality with Random Forests Regressor
+
 
 ## Overview
 This repository contains a machine learning project script designed for data analysis and model building. The project includes the following key steps:
