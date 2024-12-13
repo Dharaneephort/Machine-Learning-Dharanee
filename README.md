@@ -1,4 +1,4 @@
-# ML Project
+# ML Random Forest Regressor
 
 ## Overview
 This repository contains a machine learning project script designed for data analysis and model building. The project includes the following key steps:
