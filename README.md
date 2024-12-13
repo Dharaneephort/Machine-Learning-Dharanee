@@ -26,14 +26,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/ml-project
-cd ml-project
-```
-
-2. Run the notebook:
+Run the notebook:
 
 Use Jupyter Notebook or JupyterLab to open and run the `ML_PROJECT_DHARANEE.ipynb` file.
 
